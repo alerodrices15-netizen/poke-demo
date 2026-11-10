@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"animationId":78,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"a.atk * 12 - b.def * 1","type":1,"variance":10},"description":"Un ataque digno de los dioses.","effects":[],"hitType":0,"iconIndex":156,"itypeId":2,"name":"Mjölnir","note":"","occasion":1,"price":0,"repeats":1,"scope":2,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":3,"animationId":31,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"a.mat * 6 - b.mdf * 1","type":1,"variance":20},"description":"Lanza con la fuerza de Steve Rogers.","effects":[],"hitType":0,"iconIndex":172,"itypeId":2,"name":"Escudo Capitán América","note":"","occasion":1,"price":0,"repeats":1,"scope":2,"speed":0,"successRate":100,"tpGain":0}
+]
